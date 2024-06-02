@@ -1,20 +1,20 @@
 <img src="https://elitewebs.xyz/assets/logo.webp" width="150" height="50" style="display: block; margin: 0 auto;">
 
-# jagonews24
+# jagonews24 theme 
 Jagonews wordpress theme
 
 Download Link: https://elitewebs.xyz/item/jagonews-wordpress-theme-download
 
-# Jago News Wordpress Theme
+# Jago News Wordpress Theme Download
 Jago News is a WordPress theme designed for any news site. This theme seamlessly adapts to various screen sizes, ensuring a flawless user experience and featuring super animations with weather updates.
 
-## Live demo
+## Live demo of Jago News Wordpress Theme
 https://elitewebs.xyz/item/jagonews-wordpress-theme-download
 
-## Download
+## Download JagoNews24 Wordpress Theme
 To experience the Jago News WordPress theme, [download it here](https://elitewebs.xyz/item/jagonews-wordpress-theme-download).
 
-## Run 
+## How to Run JagoNews24 Wordpress Theme
 To unlock the wonders of this project, simply follow these steps:
 - **Download:** Go to download link and Click the "Download" button.
 - **Upload to the Wordpress:** upload the theme to your wordpress website.
