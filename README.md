@@ -1,2 +1,4 @@
 # jagonews24
-jagonews wordpress theme
+Jagonews wordpress theme
+
+Download Link: https://elitewebs.xyz/item/jagonews-wordpress-theme-download
