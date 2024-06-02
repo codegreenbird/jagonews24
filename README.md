@@ -1,4 +1,4 @@
-<img src="https://elitewebs.xyz/assets/logo.webp" width="100" height="100" style="display: block; margin: 0 auto;">
+<img src="https://elitewebs.xyz/assets/logo.webp" width="150" height="50" style="display: block; margin: 0 auto;">
 
 # jagonews24
 Jagonews wordpress theme
